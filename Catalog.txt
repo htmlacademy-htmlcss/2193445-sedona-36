@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catalog</title>
+</head>
+<body>
+    <header class="main-header">
+        <div class="logotip">
+          <img class="logo" src="#" alt="Логотип Седона">
+        </div>
+        <nav class="map">
+         <ul class="map-list">
+          <li class="map-item">
+            <a href="#">Главная</a>
+          </li>
+          <li class="map-item">
+          <a href="#">О седоне</a></li>
+          <li class="map-item">
+          <a href="#">Гостиницы</a></li>
+         </ul>
+         <ul class="map-list map-user">
+          <li class="map-list">
+            <a href="#">Поиск</a>
+          </li>
+          <li class="map-list-prefer">
+          <a href="#">Избранное</a></li>
+          <li class="map-list">
+          <a href="#"><button>Хочу сюда</button> </a></li>
+         </ul>
+        </nav>
+    </header>
+
+</body>
+<footer class="the-end">
+    <div class="the-end-social">
+      <ul class="the-end-social-list">
+       <li class="the-end-social-vk">
+        <a href="#" class="the-end-social-press-vk">
+         <span class="visuallly-hidden">Вконтакте</span>
+        </a>
+      </li>
+      <li class="the-end-social-tlg">
+        <a href="#" class="the-end-social-press-telegram">
+        <span class="visuallly-hidden">Телеграм</span>
+      </li>
+      <li class="the-end-social-ytb">
+        <a href="#" class="the-end-social-press-yotube">
+        <span class="visuallly-hidden">Ютюб</span>
+      </li>
+      </ul>
+      <div class="htmlacademy-build"></div>
+      <span>WEBSITE by</span>
+      <a href="" class="footer-htmlacademy-link">
+      </a>
+
+      <span></span>
+
+
+    </div>
+
+
+
+  </footer>
+</html>
